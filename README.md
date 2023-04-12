@@ -1,1 +1,1 @@
-# basicprojs
+# Python Quiz App
